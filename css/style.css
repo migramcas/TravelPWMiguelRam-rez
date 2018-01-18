@@ -1,0 +1,41 @@
+/*Modificar el tamaño del carrusel*/
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.categoria{
+	font-family: 'Dancing Script', cursive;
+}
+
+#banner{
+	/*De esta forma hacemos una foto responsivaa*/
+	width:100%;
+	height: auto;
+}
+
+.carousel-item img{
+	height: 500px;
+}
+
+#titulo{
+	text-align: center;
+}
+
+p{
+	text-align: justify;
+}
+
+.altura{
+	width:100%;
+	height:200px;
+
+}
+
+.container-fluid h1{
+	font-family: 'Acme', sans-serif;
+
+}
+#nombreEmpresa{
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+}
